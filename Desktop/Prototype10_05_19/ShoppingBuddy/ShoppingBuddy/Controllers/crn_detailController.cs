@@ -17,33 +17,40 @@ namespace ShoppingBuddy.Controllers
         // GET: crn_detail
         public ActionResult Index()
         {
-          
+          //populates the list for a view to scroll through
             var crn_detail = db.crn_detail.Include(c => c.campu).Include(c => c.competency).Include(c => c.subject).Include(c => c.term_datetime);
+            //first drop down list with no args 
             dropdownMenu();
+            //returns the list to the crn_detail index page
             return View(crn_detail.ToList());
 
         }
+
+        //httpPost is what seperates this index from the first one
+        //when the submit button is clicked it jumps to this controller then looks
+        //for an index with this http post annotation
         [HttpPost]
-   //public ActionResult Index(string CRN, string CampusCode, string LecturerID, string CRN2)
+ 
+        //this ActionResult is what filters out the list using if statements
         public ActionResult Index(crn_detail crn)
         {
 
-            //ViewBag.CampusList = new SelectList(db.campu, "CampusCode", "CampusName", db.campu);
-            //ViewBag.LecturerList = new SelectList(db.lecturers, "LecturerID", "GivenName");
-            //ViewBag.CRNList = new SelectList(db.crn_detail, "CRN", "CRN", db.crn_detail);
-            //ViewBag.CompetencyList = new SelectList(db.qualifications, "QualCode", "QualName");
-            //ViewBag.SubjectList = new SelectList(db.crn_detail, "CRN", "SubjectCode");
-
-            
-            dropdownMenu();
-            //To do: finish the campus, lecturer and subject filters with if statements
+            //created some variables that contain the primary and foreign keys of the
+            //tables
             var CRN = Request.Form["CRNList"].ToString();
             var campus = Request.Form["CampusList"].ToString();
             var Lecturer = Request.Form["LecturerList"].ToString();
             var subject = Request.Form["SubjectList"].ToString();
             
+            //uses a drop down menu with all args constructor
+            //the reason we have 2 is so that we can save the state of the drop
+            //down menu selection
+            dropdownMenu(CRN, campus,Lecturer, subject);
+
+
+            //------------------filters for the list------------------
             //CRN filter
-            if(CRN !="" && campus == "" && Lecturer== "" && subject== "" ){
+            if (CRN !="" && campus == "" && Lecturer== "" && subject== "" ){
                 var crn_detail = db.crn_detail.Include(c => c.campu).Include(c => c.competency).Include(c => c.subject).Include(c => c.term_datetime).Where(a => a.CRN.Equals(CRN));
                 return View(crn_detail.ToList());
             }
@@ -148,6 +155,10 @@ namespace ShoppingBuddy.Controllers
             return View();
         }
         // GET: crn_detail/Details/5
+        // puts the 3 primary keys of the crn_detail table
+        // into a variable and sends it to details view 
+        // (logic for the sending to details view is in the partial view in the 
+        // shared folder)
         public ActionResult Details(string id, int termCodeStart,
             int termYearStart)
         {
@@ -179,7 +190,15 @@ namespace ShoppingBuddy.Controllers
             ViewBag.SubjectList = new SelectList(db.crn_detail, "SubjectCode", "SubjectCode");
             
         }
+        public void dropdownMenu(string CRN, string campus, string Lecturer, string subject)
+        {
+            ViewBag.CampusList = new SelectList(db.campu, "CampusCode", "CampusName",campus);
+            ViewBag.LecturerList = new SelectList(db.lecturers, "LecturerID", "GivenName", Lecturer);
+            ViewBag.CRNList = new SelectList(db.crn_detail, "CRN", "CRN",CRN);
+            //ViewBag.CompetencyList = new SelectList(db.qualifications, "QualCode", "QualName", Qual);
+            ViewBag.SubjectList = new SelectList(db.crn_detail, "SubjectCode", "SubjectCode", subject);
 
+        }
         protected override void Dispose(bool disposing)
         {
             if (disposing)

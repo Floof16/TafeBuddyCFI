@@ -6,25 +6,35 @@
 
 <h2>Tafe Buddy</h2>
 
-<h4>CFI</h4>
-@using (Html.BeginForm("index", "crn_detail", FormMethod.Post, new { enctype = "multipart/form-data" }))
-{
+<h4>CFI</h4><p>
+    @*creates a drop down list in a form which posts to the "index" method with a Post annotation*@
+    @using (Html.BeginForm("index", "crn_detail", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
 
-            @Html.AntiForgeryToken()
+        @Html.AntiForgeryToken()
 
-            @Html.DropDownList("CRNList", "CRN List")
-            @Html.DropDownList("CampusList", "Campus List")
-            @Html.DropDownList("LecturerList", "Lecturer List")
-            @Html.DropDownList("Subjectlist", "Subject Code List")
-     
+        @Html.DropDownList("CRNList", "CRN List")
+        @Html.DropDownList("CampusList", "Campus List")
+        @Html.DropDownList("LecturerList", "Lecturer List")
+        @Html.DropDownList("Subjectlist", "Subject Code List")
 
 
-    <input class="filter" type="submit" value="Submit" />
-}
 
-@Html.Partial("PartialViewForTablePopulating")
+        <input class="filter" type="submit" value="Submit" />
 
-    @*<table class="table">
+    }
+    @using (Html.BeginForm("index", "crn_detail", FormMethod.Get))
+    {
+
+
+        <input class="filter" type="submit" value="Reset " />
+
+    }
+</p>
+       @* populates a table using a partial view, view is in the shared folder
+     which contains everything that has been commented out*@
+       @Html.Partial("PartialViewForTablePopulating")
+       @*<table class="table">
         <tr>
 
 
@@ -89,6 +99,6 @@
         }
 
     </table>*@
-    
+
 
 

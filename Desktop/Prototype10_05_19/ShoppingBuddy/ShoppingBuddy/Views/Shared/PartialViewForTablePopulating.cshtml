@@ -1,5 +1,5 @@
 ﻿@model IEnumerable<ShoppingBuddy.Models.crn_detail>
-
+ @*creates a table with the following headings*@
 <table class="table">
     <tr>
 
@@ -25,6 +25,9 @@
 
         <th></th>
     </tr>
+    @*populates the data side of the table with the all the details that match the filters
+    if no filter has been selected then all details will display
+    logic for that in both index methods in the index page of the crn_detail controller*@
     @foreach (var item in Model)
     {
         <tr>
@@ -51,6 +54,11 @@
             </td>
             <td>
 
+
+             @*this is the link that goes to the:
+             "public ActionResult Details(string id, int termCodeStart, int termYearStart)"
+                this grabs the primary keys of the selected item and passes them through to
+                the details view*@
                 @Html.ActionLink("Details", "Details", new
            {
                id = item.CRN.ToString(),
