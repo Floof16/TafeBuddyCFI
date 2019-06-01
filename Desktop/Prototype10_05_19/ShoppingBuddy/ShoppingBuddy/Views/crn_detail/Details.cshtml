@@ -1,0 +1,111 @@
+﻿@model ShoppingBuddy.Models.crn_detail
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+           CRN
+        </dt>
+
+
+        <dd>
+            @Html.DisplayFor(model => model.CRN)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.subject.SubjectCode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.subject.SubjectCode)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.subject.SubjectDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.subject.SubjectDescription)
+        </dd>
+        <dt>
+            Start Date
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.term_datetime.StartDate)
+        </dd>
+        <dt>
+            End Date
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.term_datetime.EndDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.subject.SubjectDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.subject.SubjectDescription)
+        </dd>
+        <dt>
+          Lecturer Name
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LecturerID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.campu.CampusName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.campu.CampusName)
+        </dd>
+
+        <dt>
+           Room
+        </dt>
+        <dd>
+            @foreach (var item in Model.crn_session_timetable)
+            {
+
+                @item.Room;
+
+            }
+        </dd>
+        <dt>
+            Start Time
+        </dt>
+        <dd>
+            @foreach (var item in Model.crn_session_timetable)
+            {
+
+                @item.StartTime;
+
+            }
+        </dd>
+        <dt>
+            Day
+        </dt>
+        <dd>
+            @foreach (var item in Model.crn_session_timetable)
+            {
+
+                @item.day_of_week.DayShortName;
+
+            }
+        </dd>
+
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>

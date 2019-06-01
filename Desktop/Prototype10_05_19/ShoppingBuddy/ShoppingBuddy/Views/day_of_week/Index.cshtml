@@ -1,0 +1,39 @@
+﻿@model IEnumerable<ShoppingBuddy.Models.day_of_week>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.DayShortName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DayLongName)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.DayShortName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DayLongName)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.DayCode }) |
+            @Html.ActionLink("Details", "Details", new { id=item.DayCode }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.DayCode })
+        </td>
+    </tr>
+}
+
+</table>

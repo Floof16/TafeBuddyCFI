@@ -1,0 +1,34 @@
+﻿@model ShoppingBuddy.Models.day_of_week
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>day_of_week</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.DayShortName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DayShortName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DayLongName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DayLongName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.DayCode }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

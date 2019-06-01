@@ -1,0 +1,438 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="admin_it_studies_devModel.Store" Provider="MySql.Data.MySqlClient" ProviderManifestToken="5.7" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="campus">
+    <Key>
+      <PropertyRef Name="CampusCode" />
+    </Key>
+    <Property Name="CampusCode" Type="char" MaxLength="3" Nullable="false" />
+    <Property Name="CampusName" Type="varchar" MaxLength="32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="competency">
+    <Key>
+      <PropertyRef Name="TafeCompCode" />
+    </Key>
+    <Property Name="TafeCompCode" Type="varchar" MaxLength="64" Nullable="false" />
+    <Property Name="NationalCompCode" Type="varchar" MaxLength="64" Nullable="false" />
+    <Property Name="CompetencyName" Type="varchar" MaxLength="128" Nullable="false" />
+    <Property Name="Hours" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="competency_type">
+    <Key>
+      <PropertyRef Name="CompTypeCode" />
+    </Key>
+    <Property Name="CompTypeCode" Type="varchar" MaxLength="5" Nullable="false" />
+    <Property Name="CompTypeDescription" Type="varchar" MaxLength="128" Nullable="false" />
+  </EntityType>
+  <EntityType Name="crn_detail">
+    <Key>
+      <PropertyRef Name="CRN" />
+      <PropertyRef Name="TermCodeStart" />
+      <PropertyRef Name="TermYearStart" />
+    </Key>
+    <Property Name="CRN" Type="varchar" MaxLength="32" Nullable="false" />
+    <Property Name="TafeCompCode" Type="varchar" MaxLength="64" Nullable="false" />
+    <Property Name="TermCodeStart" Type="int" Nullable="false" />
+    <Property Name="TermYearStart" Type="int" Nullable="false" />
+    <Property Name="TermCodeEnd" Type="int" Nullable="false" />
+    <Property Name="TermYearEnd" Type="int" Nullable="false" />
+    <Property Name="SubjectCode" Type="varchar" MaxLength="32" Nullable="false" />
+    <Property Name="CampusCode" Type="char" MaxLength="3" Nullable="false" />
+    <Property Name="LecturerID" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="DepartmentCode" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="FreezeDate" Type="date" Nullable="false" />
+    <Property Name="DateCreated" Type="date" Nullable="false" />
+  </EntityType>
+  <EntityType Name="crn_session_timetable">
+    <Key>
+      <PropertyRef Name="CRN" />
+      <PropertyRef Name="DayCode" />
+      <PropertyRef Name="StartTime" />
+    </Key>
+    <Property Name="CRN" Type="varchar" MaxLength="32" Nullable="false" />
+    <Property Name="TermCodeStart" Type="int" Nullable="false" />
+    <Property Name="TermYearStart" Type="int" Nullable="false" />
+    <Property Name="DayCode" Type="int" Nullable="false" />
+    <Property Name="StartTime" Type="time" Precision="0" Nullable="false" />
+    <Property Name="EndTime" Type="time" Precision="0" Nullable="false" />
+    <Property Name="Room" Type="varchar" MaxLength="16" />
+    <Property Name="Building" Type="varchar" MaxLength="16" />
+    <Property Name="CampusCode" Type="char" MaxLength="3" Nullable="false" />
+  </EntityType>
+  <EntityType Name="day_of_week">
+    <Key>
+      <PropertyRef Name="DayCode" />
+    </Key>
+    <Property Name="DayCode" Type="int" Nullable="false" />
+    <Property Name="DayShortName" Type="char" MaxLength="3" Nullable="false" />
+    <Property Name="DayLongName" Type="varchar" MaxLength="9" Nullable="false" />
+  </EntityType>
+  <EntityType Name="department">
+    <Key>
+      <PropertyRef Name="DepartmentCode" />
+    </Key>
+    <Property Name="DepartmentCode" Type="varchar" MaxLength="8" Nullable="false" />
+    <Property Name="Department" Type="varchar" MaxLength="64" Nullable="false" />
+  </EntityType>
+  <EntityType Name="qualification">
+    <Key>
+      <PropertyRef Name="QualCode" />
+    </Key>
+    <Property Name="QualCode" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="NationalQualCode" Type="varchar" MaxLength="32" Nullable="false" />
+    <Property Name="TafeQualCode" Type="varchar" MaxLength="32" Nullable="false" />
+    <Property Name="QualName" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="TotalUnits" Type="int" Nullable="false" />
+    <Property Name="CoreUnits" Type="int" Nullable="false" />
+    <Property Name="ElectedUnits" Type="int" Nullable="false" />
+    <Property Name="ReqListedElectedUnits" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="studyplan_qualification">
+    <Key>
+      <PropertyRef Name="StudyPlanCode" />
+    </Key>
+    <Property Name="StudyPlanCode" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="QualCode" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="Priority" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="studyplan_subject">
+    <Key>
+      <PropertyRef Name="StudyPlanCode" />
+      <PropertyRef Name="SubjectCode" />
+    </Key>
+    <Property Name="StudyPlanCode" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="SubjectCode" Type="varchar" MaxLength="32" Nullable="false" />
+    <Property Name="TimingSemester" Type="int" Nullable="false" />
+    <Property Name="TimingSemesterTerm" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="subject">
+    <Key>
+      <PropertyRef Name="SubjectCode" />
+    </Key>
+    <Property Name="SubjectCode" Type="varchar" MaxLength="32" Nullable="false" />
+    <Property Name="SubjectDescription" Type="varchar" MaxLength="256" Nullable="false" />
+  </EntityType>
+  <EntityType Name="subject_competency">
+    <Key>
+      <PropertyRef Name="SubjectCode" />
+      <PropertyRef Name="TafeCompCode" />
+    </Key>
+    <Property Name="SubjectCode" Type="varchar" MaxLength="32" Nullable="false" />
+    <Property Name="TafeCompCode" Type="varchar" MaxLength="64" Nullable="false" />
+  </EntityType>
+  <EntityType Name="subject_qualification">
+    <Key>
+      <PropertyRef Name="QualCode" />
+      <PropertyRef Name="SubjectCode" />
+    </Key>
+    <Property Name="QualCode" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="SubjectCode" Type="varchar" MaxLength="32" Nullable="false" />
+    <Property Name="CompTypeCode" Type="varchar" MaxLength="5" Nullable="false" />
+  </EntityType>
+  <EntityType Name="term_datetime">
+    <Key>
+      <PropertyRef Name="TermCode" />
+      <PropertyRef Name="TermYear" />
+    </Key>
+    <Property Name="TermCode" Type="int" Nullable="false" />
+    <Property Name="TermYear" Type="int" Nullable="false" />
+    <Property Name="StartDate" Type="date" Nullable="false" />
+    <Property Name="EndDate" Type="date" Nullable="false" />
+    <Property Name="SemesterCode" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_CRNDetail_CampusCode">
+    <End Role="campus" Type="Self.campus" Multiplicity="1" />
+    <End Role="crn_detail" Type="Self.crn_detail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="campus">
+        <PropertyRef Name="CampusCode" />
+      </Principal>
+      <Dependent Role="crn_detail">
+        <PropertyRef Name="CampusCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CRNDetail_DepartmentCode">
+    <End Role="department" Type="Self.department" Multiplicity="1" />
+    <End Role="crn_detail" Type="Self.crn_detail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="department">
+        <PropertyRef Name="DepartmentCode" />
+      </Principal>
+      <Dependent Role="crn_detail">
+        <PropertyRef Name="DepartmentCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CRNDetail_SubjectCode">
+    <End Role="subject" Type="Self.subject" Multiplicity="1" />
+    <End Role="crn_detail" Type="Self.crn_detail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="subject">
+        <PropertyRef Name="SubjectCode" />
+      </Principal>
+      <Dependent Role="crn_detail">
+        <PropertyRef Name="SubjectCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CRNDetail_TafeCompCode">
+    <End Role="competency" Type="Self.competency" Multiplicity="1" />
+    <End Role="crn_detail" Type="Self.crn_detail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="competency">
+        <PropertyRef Name="TafeCompCode" />
+      </Principal>
+      <Dependent Role="crn_detail">
+        <PropertyRef Name="TafeCompCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CRNDetail_TermStart">
+    <End Role="term_datetime" Type="Self.term_datetime" Multiplicity="1" />
+    <End Role="crn_detail" Type="Self.crn_detail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="term_datetime">
+        <PropertyRef Name="TermCode" />
+        <PropertyRef Name="TermYear" />
+      </Principal>
+      <Dependent Role="crn_detail">
+        <PropertyRef Name="TermCodeStart" />
+        <PropertyRef Name="TermYearStart" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Session_CampusCode">
+    <End Role="campus" Type="Self.campus" Multiplicity="1" />
+    <End Role="crn_session_timetable" Type="Self.crn_session_timetable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="campus">
+        <PropertyRef Name="CampusCode" />
+      </Principal>
+      <Dependent Role="crn_session_timetable">
+        <PropertyRef Name="CampusCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Session_CRN">
+    <End Role="crn_detail" Type="Self.crn_detail" Multiplicity="1" />
+    <End Role="crn_session_timetable" Type="Self.crn_session_timetable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="crn_detail">
+        <PropertyRef Name="CRN" />
+        <PropertyRef Name="TermCodeStart" />
+        <PropertyRef Name="TermYearStart" />
+      </Principal>
+      <Dependent Role="crn_session_timetable">
+        <PropertyRef Name="CRN" />
+        <PropertyRef Name="TermCodeStart" />
+        <PropertyRef Name="TermYearStart" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Session_DayCode">
+    <End Role="day_of_week" Type="Self.day_of_week" Multiplicity="1" />
+    <End Role="crn_session_timetable" Type="Self.crn_session_timetable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="day_of_week">
+        <PropertyRef Name="DayCode" />
+      </Principal>
+      <Dependent Role="crn_session_timetable">
+        <PropertyRef Name="DayCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Session_TermStart">
+    <End Role="term_datetime" Type="Self.term_datetime" Multiplicity="1" />
+    <End Role="crn_session_timetable" Type="Self.crn_session_timetable" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="term_datetime">
+        <PropertyRef Name="TermCode" />
+        <PropertyRef Name="TermYear" />
+      </Principal>
+      <Dependent Role="crn_session_timetable">
+        <PropertyRef Name="TermCodeStart" />
+        <PropertyRef Name="TermYearStart" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_StudyPlanQual_QualCode">
+    <End Role="qualification" Type="Self.qualification" Multiplicity="1" />
+    <End Role="studyplan_qualification" Type="Self.studyplan_qualification" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="qualification">
+        <PropertyRef Name="QualCode" />
+      </Principal>
+      <Dependent Role="studyplan_qualification">
+        <PropertyRef Name="QualCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_StudyPlanSubject_StudyPlanCode">
+    <End Role="studyplan_qualification" Type="Self.studyplan_qualification" Multiplicity="1" />
+    <End Role="studyplan_subject" Type="Self.studyplan_subject" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="studyplan_qualification">
+        <PropertyRef Name="StudyPlanCode" />
+      </Principal>
+      <Dependent Role="studyplan_subject">
+        <PropertyRef Name="StudyPlanCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_StudyPlanSubject_SubjectCode">
+    <End Role="subject" Type="Self.subject" Multiplicity="1" />
+    <End Role="studyplan_subject" Type="Self.studyplan_subject" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="subject">
+        <PropertyRef Name="SubjectCode" />
+      </Principal>
+      <Dependent Role="studyplan_subject">
+        <PropertyRef Name="SubjectCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SubjComp_SubjectCode">
+    <End Role="subject" Type="Self.subject" Multiplicity="1" />
+    <End Role="subject_competency" Type="Self.subject_competency" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="subject">
+        <PropertyRef Name="SubjectCode" />
+      </Principal>
+      <Dependent Role="subject_competency">
+        <PropertyRef Name="SubjectCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SubjComp_TafeCompCode">
+    <End Role="competency" Type="Self.competency" Multiplicity="1" />
+    <End Role="subject_competency" Type="Self.subject_competency" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="competency">
+        <PropertyRef Name="TafeCompCode" />
+      </Principal>
+      <Dependent Role="subject_competency">
+        <PropertyRef Name="TafeCompCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SubjQual_CompTypeCode">
+    <End Role="competency_type" Type="Self.competency_type" Multiplicity="1" />
+    <End Role="subject_qualification" Type="Self.subject_qualification" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="competency_type">
+        <PropertyRef Name="CompTypeCode" />
+      </Principal>
+      <Dependent Role="subject_qualification">
+        <PropertyRef Name="CompTypeCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SubjQual_QualCode">
+    <End Role="qualification" Type="Self.qualification" Multiplicity="1" />
+    <End Role="subject_qualification" Type="Self.subject_qualification" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="qualification">
+        <PropertyRef Name="QualCode" />
+      </Principal>
+      <Dependent Role="subject_qualification">
+        <PropertyRef Name="QualCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SubjQual_SubjectCode">
+    <End Role="subject" Type="Self.subject" Multiplicity="1" />
+    <End Role="subject_qualification" Type="Self.subject_qualification" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="subject">
+        <PropertyRef Name="SubjectCode" />
+      </Principal>
+      <Dependent Role="subject_qualification">
+        <PropertyRef Name="SubjectCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="admin_it_studies_devModelStoreContainer">
+    <EntitySet Name="campus" EntityType="Self.campus" Schema="admin_it_studies_dev" store:Type="Tables" />
+    <EntitySet Name="competency" EntityType="Self.competency" Schema="admin_it_studies_dev" store:Type="Tables" />
+    <EntitySet Name="competency_type" EntityType="Self.competency_type" Schema="admin_it_studies_dev" store:Type="Tables" />
+    <EntitySet Name="crn_detail" EntityType="Self.crn_detail" Schema="admin_it_studies_dev" store:Type="Tables" />
+    <EntitySet Name="crn_session_timetable" EntityType="Self.crn_session_timetable" Schema="admin_it_studies_dev" store:Type="Tables" />
+    <EntitySet Name="day_of_week" EntityType="Self.day_of_week" Schema="admin_it_studies_dev" store:Type="Tables" />
+    <EntitySet Name="department" EntityType="Self.department" Schema="admin_it_studies_dev" store:Type="Tables" />
+    <EntitySet Name="qualification" EntityType="Self.qualification" Schema="admin_it_studies_dev" store:Type="Tables" />
+    <EntitySet Name="studyplan_qualification" EntityType="Self.studyplan_qualification" Schema="admin_it_studies_dev" store:Type="Tables" />
+    <EntitySet Name="studyplan_subject" EntityType="Self.studyplan_subject" Schema="admin_it_studies_dev" store:Type="Tables" />
+    <EntitySet Name="subject" EntityType="Self.subject" Schema="admin_it_studies_dev" store:Type="Tables" />
+    <EntitySet Name="subject_competency" EntityType="Self.subject_competency" Schema="admin_it_studies_dev" store:Type="Tables" />
+    <EntitySet Name="subject_qualification" EntityType="Self.subject_qualification" Schema="admin_it_studies_dev" store:Type="Tables" />
+    <EntitySet Name="term_datetime" EntityType="Self.term_datetime" Schema="admin_it_studies_dev" store:Type="Tables" />
+    <AssociationSet Name="FK_CRNDetail_CampusCode" Association="Self.FK_CRNDetail_CampusCode">
+      <End Role="campus" EntitySet="campus" />
+      <End Role="crn_detail" EntitySet="crn_detail" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CRNDetail_DepartmentCode" Association="Self.FK_CRNDetail_DepartmentCode">
+      <End Role="department" EntitySet="department" />
+      <End Role="crn_detail" EntitySet="crn_detail" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CRNDetail_SubjectCode" Association="Self.FK_CRNDetail_SubjectCode">
+      <End Role="subject" EntitySet="subject" />
+      <End Role="crn_detail" EntitySet="crn_detail" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CRNDetail_TafeCompCode" Association="Self.FK_CRNDetail_TafeCompCode">
+      <End Role="competency" EntitySet="competency" />
+      <End Role="crn_detail" EntitySet="crn_detail" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CRNDetail_TermStart" Association="Self.FK_CRNDetail_TermStart">
+      <End Role="term_datetime" EntitySet="term_datetime" />
+      <End Role="crn_detail" EntitySet="crn_detail" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Session_CampusCode" Association="Self.FK_Session_CampusCode">
+      <End Role="campus" EntitySet="campus" />
+      <End Role="crn_session_timetable" EntitySet="crn_session_timetable" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Session_CRN" Association="Self.FK_Session_CRN">
+      <End Role="crn_detail" EntitySet="crn_detail" />
+      <End Role="crn_session_timetable" EntitySet="crn_session_timetable" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Session_DayCode" Association="Self.FK_Session_DayCode">
+      <End Role="day_of_week" EntitySet="day_of_week" />
+      <End Role="crn_session_timetable" EntitySet="crn_session_timetable" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Session_TermStart" Association="Self.FK_Session_TermStart">
+      <End Role="term_datetime" EntitySet="term_datetime" />
+      <End Role="crn_session_timetable" EntitySet="crn_session_timetable" />
+    </AssociationSet>
+    <AssociationSet Name="FK_StudyPlanQual_QualCode" Association="Self.FK_StudyPlanQual_QualCode">
+      <End Role="qualification" EntitySet="qualification" />
+      <End Role="studyplan_qualification" EntitySet="studyplan_qualification" />
+    </AssociationSet>
+    <AssociationSet Name="FK_StudyPlanSubject_StudyPlanCode" Association="Self.FK_StudyPlanSubject_StudyPlanCode">
+      <End Role="studyplan_qualification" EntitySet="studyplan_qualification" />
+      <End Role="studyplan_subject" EntitySet="studyplan_subject" />
+    </AssociationSet>
+    <AssociationSet Name="FK_StudyPlanSubject_SubjectCode" Association="Self.FK_StudyPlanSubject_SubjectCode">
+      <End Role="subject" EntitySet="subject" />
+      <End Role="studyplan_subject" EntitySet="studyplan_subject" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SubjComp_SubjectCode" Association="Self.FK_SubjComp_SubjectCode">
+      <End Role="subject" EntitySet="subject" />
+      <End Role="subject_competency" EntitySet="subject_competency" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SubjComp_TafeCompCode" Association="Self.FK_SubjComp_TafeCompCode">
+      <End Role="competency" EntitySet="competency" />
+      <End Role="subject_competency" EntitySet="subject_competency" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SubjQual_CompTypeCode" Association="Self.FK_SubjQual_CompTypeCode">
+      <End Role="competency_type" EntitySet="competency_type" />
+      <End Role="subject_qualification" EntitySet="subject_qualification" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SubjQual_QualCode" Association="Self.FK_SubjQual_QualCode">
+      <End Role="qualification" EntitySet="qualification" />
+      <End Role="subject_qualification" EntitySet="subject_qualification" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SubjQual_SubjectCode" Association="Self.FK_SubjQual_SubjectCode">
+      <End Role="subject" EntitySet="subject" />
+      <End Role="subject_qualification" EntitySet="subject_qualification" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

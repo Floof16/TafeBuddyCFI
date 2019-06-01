@@ -1,0 +1,94 @@
+﻿@model IEnumerable<ShoppingBuddy.Models.crn_detail>
+
+@{
+    ViewBag.Title = "TafeSA - Class Finder ";
+}
+
+<h2>Tafe Buddy</h2>
+
+<h4>CFI</h4>
+@using (Html.BeginForm("index", "crn_detail", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+
+            @Html.AntiForgeryToken()
+
+            @Html.DropDownList("CRNList", "CRN List")
+            @Html.DropDownList("CampusList", "Campus List")
+            @Html.DropDownList("LecturerList", "Lecturer List")
+            @Html.DropDownList("Subjectlist", "Subject Code List")
+     
+
+
+    <input class="filter" type="submit" value="Submit" />
+}
+
+@Html.Partial("PartialViewForTablePopulating")
+
+    @*<table class="table">
+        <tr>
+
+
+            <th>
+                @Html.DisplayName("Lecturer Name")
+            </th>
+            <th>
+                @Html.DisplayName("Department Code")
+            </th>
+            <th>
+                @Html.DisplayName("Subject Code")
+            </th>
+            <th>
+                @Html.DisplayName("Campus Name")
+            </th>
+            <th>
+                @Html.DisplayName("Competency Code")
+            </th>
+            <th>
+                @Html.DisplayName("Subject Description")
+            </th>
+
+            <th></th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.lecturer.GivenName)
+                    &nbsp;
+                    @Html.DisplayFor(modelItem => item.lecturer.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DepartmentCode)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SubjectCode)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.campu.CampusName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.competency.NationalCompCode)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.subject.SubjectDescription)
+                </td>
+                <td>
+
+                    @Html.ActionLink("Details", "Details", new
+           {
+               id = item.CRN.ToString(),
+               termCodeStart = item.TermCodeStart,
+               termYearStart = item.TermYearStart
+
+           }) |
+
+                </td>
+            </tr>
+
+        }
+
+    </table>*@
+    
+
+

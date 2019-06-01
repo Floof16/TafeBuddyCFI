@@ -1,0 +1,104 @@
+﻿@model ShoppingBuddy.Models.crn_detail
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>crn_detail</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TermCodeEnd)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TermCodeEnd)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TermYearEnd)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TermYearEnd)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LecturerID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LecturerID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DepartmentCode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DepartmentCode)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FreezeDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FreezeDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateCreated)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateCreated)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.campu.CampusName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.campu.CampusName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.competency.NationalCompCode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.competency.NationalCompCode)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.subject.SubjectDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.subject.SubjectDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.term_datetime.TermCode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.term_datetime.TermCode)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

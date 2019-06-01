@@ -1,0 +1,65 @@
+﻿@model IEnumerable<ShoppingBuddy.Models.SubjectViewModel>
+
+
+@{
+    ViewBag.Title = "Home Page";
+}
+@if (Model != null)
+{
+<div class="jumbotron">
+    <h1>Tafe Buddy </h1>
+    <p class="lead">Select A Subject to find out more details</p>
+</div>
+
+<div class="row">
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CRN)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SubjectCode)
+            </th>
+            @*<th>
+                @Html.DisplayNameFor(model => model.CompetencyName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EndDate)
+            </th>
+            <th></th>*@
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CRN)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SubjectCode)
+                </td>
+                @*<td>
+                    @Html.DisplayFor(modelItem => item.CompetencyName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StartDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EndDate)
+                </td>*@
+               
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                </td>
+            </tr>
+
+        }
+    </table>
+</div>
+
+}

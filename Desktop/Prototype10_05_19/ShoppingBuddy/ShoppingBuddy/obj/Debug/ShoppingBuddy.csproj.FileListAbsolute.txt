@@ -1,0 +1,445 @@
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\ApplicationInsights.config
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\roslyn\csc.exe
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\roslyn\System.Collections.Immutable.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\roslyn\System.Reflection.Metadata.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\roslyn\vbc.exe
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\roslyn\VBCSCompiler.exe
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\roslyn\VBCSCompiler.exe.config
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\ShoppingBuddy.dll.config
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\ShoppingBuddy.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\ShoppingBuddy.pdb
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\x86\sqlcese40.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\x86\sqlceqp40.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\x86\sqlceme40.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\x86\sqlceer40EN.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\x86\sqlcecompact40.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\x86\sqlceca40.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\amd64\sqlcese40.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\amd64\sqlceqp40.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\amd64\sqlceme40.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\amd64\sqlceer40EN.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\amd64\sqlcecompact40.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\amd64\sqlceca40.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Antlr3.Runtime.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\BouncyCastle.Crypto.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\EntityFramework.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\EntityFramework.SqlServer.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\EntityFramework.SqlServerCompact.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Google.Protobuf.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.DependencyCollector.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.Web.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.WindowsServer.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.ApplicationInsights.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Facebook.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Google.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Twitter.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Web.Infrastructure.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\MySql.Data.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\MySql.Data.Entity.EF6.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Newtonsoft.Json.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Owin.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\SqlData.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Data.SqlServerCe.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Helpers.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Mvc.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Optimization.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Razor.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.WebPages.Deployment.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.WebPages.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.WebPages.Razor.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\WebGrease.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\EntityFramework.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\EntityFramework.SqlServer.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\EntityFramework.SqlServerCompact.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Google.Protobuf.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.DependencyCollector.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.Web.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.WindowsServer.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.ApplicationInsights.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\MySql.Data.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\MySql.Data.Entity.EF6.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Helpers.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Mvc.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Optimization.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Razor.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.WebPages.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.WebPages.Deployment.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.WebPages.Razor.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Antlr3.Runtime.pdb
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Newtonsoft.Json.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Google.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\obj\Debug\ShoppingBuddy.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\obj\Debug\ShoppingBuddy.pdb
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\MySql.Data.EntityFramework.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\MySql.Data.EntityFramework.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\obj\Debug\ShoppingBuddy.csprojResolveAssemblyReference.cache
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\ApplicationInsights.config
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\roslyn\csc.exe
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\roslyn\System.Collections.Immutable.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\roslyn\System.Reflection.Metadata.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\roslyn\vbc.exe
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\roslyn\VBCSCompiler.exe
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\roslyn\VBCSCompiler.exe.config
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\ShoppingBuddy.dll.config
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\ShoppingBuddy.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\ShoppingBuddy.pdb
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\x86\sqlcese40.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\x86\sqlceqp40.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\x86\sqlceme40.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\x86\sqlceer40EN.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\x86\sqlcecompact40.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\x86\sqlceca40.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\amd64\sqlcese40.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\amd64\sqlceqp40.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\amd64\sqlceme40.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\amd64\sqlceer40EN.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\amd64\sqlcecompact40.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\amd64\sqlceca40.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Antlr3.Runtime.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\BouncyCastle.Crypto.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\EntityFramework.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\EntityFramework.SqlServer.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\EntityFramework.SqlServerCompact.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Google.Protobuf.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.Agent.Intercept.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.DependencyCollector.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.Web.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.WindowsServer.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.ApplicationInsights.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AspNet.Identity.Core.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Cookies.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Facebook.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Google.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.OAuth.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Twitter.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Web.Infrastructure.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\MySql.Data.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\MySql.Data.EntityFramework.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Newtonsoft.Json.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Owin.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\SqlData.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Data.SqlServerCe.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Helpers.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Mvc.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Optimization.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Razor.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.WebPages.Deployment.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.WebPages.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.WebPages.Razor.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\WebGrease.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\EntityFramework.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\EntityFramework.SqlServer.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\EntityFramework.SqlServerCompact.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Google.Protobuf.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.DependencyCollector.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.Web.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.WindowsServer.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.ApplicationInsights.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\MySql.Data.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\MySql.Data.EntityFramework.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Helpers.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Mvc.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Optimization.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Razor.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.WebPages.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.WebPages.Deployment.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\System.Web.WebPages.Razor.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Antlr3.Runtime.pdb
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Newtonsoft.Json.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AspNet.Identity.Core.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Facebook.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Cookies.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.OAuth.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Google.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Twitter.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\obj\Debug\ShoppingBuddy.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19\ShoppingBuddy\ShoppingBuddy\obj\Debug\ShoppingBuddy.pdb
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\ApplicationInsights.config
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\roslyn\csc.exe
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\roslyn\System.Collections.Immutable.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\roslyn\System.Reflection.Metadata.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\roslyn\vbc.exe
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\roslyn\VBCSCompiler.exe
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\roslyn\VBCSCompiler.exe.config
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\ShoppingBuddy.dll.config
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\ShoppingBuddy.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\ShoppingBuddy.pdb
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\x86\sqlcese40.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\x86\sqlceqp40.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\x86\sqlceme40.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\x86\sqlceer40EN.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\x86\sqlcecompact40.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\x86\sqlceca40.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\amd64\sqlcese40.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\amd64\sqlceqp40.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\amd64\sqlceme40.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\amd64\sqlceer40EN.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\amd64\sqlcecompact40.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\amd64\sqlceca40.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Antlr3.Runtime.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\BouncyCastle.Crypto.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\EntityFramework.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\EntityFramework.SqlServer.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\EntityFramework.SqlServerCompact.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Google.Protobuf.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.DependencyCollector.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.Web.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.WindowsServer.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.ApplicationInsights.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Facebook.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Google.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Twitter.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Web.Infrastructure.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\MySql.Data.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\MySql.Data.EntityFramework.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Newtonsoft.Json.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Owin.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\SqlData.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Data.SqlServerCe.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Helpers.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Mvc.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Optimization.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Razor.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.WebPages.Deployment.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.WebPages.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.WebPages.Razor.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\WebGrease.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\EntityFramework.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\EntityFramework.SqlServer.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\EntityFramework.SqlServerCompact.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Google.Protobuf.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.DependencyCollector.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.Web.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.WindowsServer.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.ApplicationInsights.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\MySql.Data.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\MySql.Data.EntityFramework.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Helpers.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Mvc.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Optimization.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Razor.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.WebPages.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.WebPages.Deployment.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.WebPages.Razor.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Antlr3.Runtime.pdb
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Newtonsoft.Json.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Google.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\obj\Debug\ShoppingBuddy.csprojResolveAssemblyReference.cache
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\obj\Debug\ShoppingBuddy.dll
+D:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\obj\Debug\ShoppingBuddy.pdb
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\roslyn\csc.exe
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\ApplicationInsights.config
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\roslyn\System.Collections.Immutable.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\roslyn\System.Reflection.Metadata.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\roslyn\vbc.exe
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\roslyn\VBCSCompiler.exe
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\roslyn\VBCSCompiler.exe.config
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\ShoppingBuddy.dll.config
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\ShoppingBuddy.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\ShoppingBuddy.pdb
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\x86\sqlcese40.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\x86\sqlceqp40.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\x86\sqlceme40.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\x86\sqlceer40EN.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\x86\sqlcecompact40.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\x86\sqlceca40.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\amd64\sqlcese40.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\amd64\sqlceqp40.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\amd64\sqlceme40.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\amd64\sqlceer40EN.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\amd64\sqlcecompact40.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\amd64\sqlceca40.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Antlr3.Runtime.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\BouncyCastle.Crypto.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\EntityFramework.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\EntityFramework.SqlServer.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\EntityFramework.SqlServerCompact.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Google.Protobuf.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.Agent.Intercept.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.DependencyCollector.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.Web.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.WindowsServer.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.ApplicationInsights.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AspNet.Identity.Core.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Cookies.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Facebook.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Google.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.OAuth.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Twitter.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Web.Infrastructure.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\MySql.Data.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\MySql.Data.EntityFramework.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Newtonsoft.Json.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Owin.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\SqlData.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Data.SqlServerCe.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Helpers.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Mvc.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Optimization.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Razor.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.WebPages.Deployment.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.WebPages.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.WebPages.Razor.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\WebGrease.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\EntityFramework.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\EntityFramework.SqlServer.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\EntityFramework.SqlServerCompact.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Google.Protobuf.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.DependencyCollector.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.Web.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AI.WindowsServer.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.ApplicationInsights.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\MySql.Data.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\MySql.Data.EntityFramework.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Helpers.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Mvc.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Optimization.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.Razor.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.WebPages.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.WebPages.Deployment.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\System.Web.WebPages.Razor.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Antlr3.Runtime.pdb
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Newtonsoft.Json.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AspNet.Identity.Core.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Facebook.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Cookies.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.OAuth.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Google.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.Twitter.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\obj\Debug\ShoppingBuddy.dll
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\obj\Debug\ShoppingBuddy.pdb
+H:\SEMESTER 2\5WORK_GROUP\Prototype10_05_19 - Copy\ShoppingBuddy\ShoppingBuddy\obj\Debug\ShoppingBuddy.csprojResolveAssemblyReference.cache
